@@ -12,6 +12,7 @@
     <artifactId>HRAssociationAPI</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>HRAssociation</name>
+    <packaging>jar</packaging>
     <description>HRAssociation</description>
     <properties>
         <java.version>17</java.version>
